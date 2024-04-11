@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Indranil</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate software application architect and blockchain developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=code-architect" alt="code-architect" /></a> </p>
 
