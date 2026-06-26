@@ -1,19 +1,20 @@
 <h1 align="center">Hi 👋, I'm Indranil</h1>
-<h3 align="center">A passionate software application architect and blockchain developer from India</h3>
+<h3 align="center">Senior Engineering Manager | Hands-on Software Architect | Cloud, AI-Native Apps & Blockchain</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=code-architect" alt="code-architect" /></a> </p>
 
-- 🌱 I’m currently learning **Hyperledger**
+* 🏗️ I lead engineering teams building **scalable platforms, cloud-native systems, AI-native applications, and distributed products**
 
-- 👯 I’m looking to collaborate on [ReactPHP](https://reactphp.org/)
+* 🤖 I build **semi AI-native apps** that combine traditional software architecture with AI-powered workflows, automation, decision support, and productivity enhancements
 
-- 📝 I regularly write articles on [https://codearchitect.in/](https://codearchitect.in/)
+* ☁️ I work across **Cloud Architecture, Microservices, APIs, DevOps, System Design, and Engineering Delivery**
 
-- 💬 Ask me about **PHP, Solidity, Python**
+* 👥 I focus on **engineering leadership, technical strategy, mentoring, delivery excellence, and building high-performing teams**
 
-- 📄 Know about my experiences [https://codearchitect.in/about-me-2](https://codearchitect.in/about-me-2)
+* 📝 I regularly write articles on https://codearchitect.in/
 
-- ⚡ Fun fact **Solidity: Where code meets currency.💰, Turning lines of code into digital gold.✨**
+* 💬 Ask me about **Engineering Management, Software Architecture, Cloud, AI-Native Apps, AI Tools, PHP, Python, Solidity, APIs, and Blockchain**
+
+* ⚡ Fun fact I turn business **chaos into architecture, architecture into delivery plans, and delivery plans** into software that usually behaves in production. No promises about Mondays.
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
